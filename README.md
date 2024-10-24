@@ -30,4 +30,4 @@ O código é organizado em várias funções:
 1. Clone o repositório:
    ```bash
    git clone https://github.com/z12guilherme/cryptography
-   cd <diretório do repositório>
+   cd cryptography
